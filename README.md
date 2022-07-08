@@ -1,2 +1,2 @@
-# Data_Structures_Java
-Data Structures programs
+# Data_Structures_Algorithms_Java11
+Data Structures & Algorithms programs in Java11
